@@ -22,6 +22,7 @@ POINT - 4 -10
 POINT - 4 2
 ENDLIN
 LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 0
 POINT - 4 0
 ENDLIN
 LINE 1 -1 -1 -1 -1 -1 -1
